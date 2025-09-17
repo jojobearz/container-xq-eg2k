@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jojobearz",
+  "repo": "container-xq-eg2k",
+  "name": "jojobearz",
+  "email": "c.pichit@gmail.com",
+}
